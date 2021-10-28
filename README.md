@@ -1,1 +1,1 @@
-# -Jenkins_multiBranch24,jenkins
+# -Jenkins_multiBranch24,jenkins,success
